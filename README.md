@@ -3,7 +3,7 @@
 
 
 - 📚Foco em Desenvolvimento Web com Java e Spring Boot..
-- 👨‍🎓Graduando em Análise e desenvolvimento de sistemas.
+- Graduando em Análise e desenvolvimento de sistemas.
 - 🧠 Desenvolvendo novas habilidades.
 - 📫 Contate-me por gregorydantasjc61@gmail.com.
 

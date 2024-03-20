@@ -1,4 +1,4 @@
-<h1 align="left"> Oi,meu nome é Gregory</h1>
+<h1 align="left"> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregdantas&color=red" alt="Profile views" /> </p>
 
 

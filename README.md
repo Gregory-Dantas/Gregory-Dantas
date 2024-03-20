@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregdantas&color=red" alt="Profile views" /> </p>
 
 
-- 📚 Estudando Desenvolvimento Web com Java e Spring Boot..
+- 📚Foco em Desenvolvimento Web com Java e Spring Boot..
 - 👨‍🎓Graduando em Análise e desenvolvimento de sistemas.
 - 🧠 Desenvolvendo novas habilidades.
 - 📫 Contate-me por gregorydantasjc61@gmail.com.
@@ -10,9 +10,9 @@
 
 
 <div>
-  <a href="https://github.com/gregdantas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gregdantas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregdantas&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/Gregory-Dantas">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gregory-Dantas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-Dantas&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center"  height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 

@@ -1,14 +1,11 @@
-<h1 align="left"> ⚙️, Gregory</h1>
+<h1 align="left"> ⚙, Gregory</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregdantas&color=red" alt="Profile views" /> </p>
 
 
--    Foco em Desenvolvimento Web com Java e Spring Boot..
+- ⚙ Foco em Desenvolvimento Web com Java e Spring Boot..
 - 📚 Graduando em Análise e desenvolvimento de sistemas.
 - 🧠 Desenvolvendo novas habilidades.
-- 📫 Contate-me por gregorydantasjc61@gmail.com.
-
-
-
+- 📫 Contate-me por gregorydantasjc@icloud.com
 <div>
   
           

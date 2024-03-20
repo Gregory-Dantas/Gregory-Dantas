@@ -10,16 +10,19 @@
 
 
 <div>
+  
+          
   <a href="https://github.com/Gregory-Dantas">
+    
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gregory-Dantas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-Dantas&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center"  height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
  <img align="center"  height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- <img align="center"  height="40" width="50"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="center"  height="40" width="50"img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-                  
+ <img align="center"  height="40" width="50"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />
+                            
                     
 
 </div>
